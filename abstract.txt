@@ -1,0 +1,11 @@
+SOLID Ruby
+----------
+The SOLID principles are a set of design principles that improve an Object Oriented design.  They are:
+
+* Single Responsibility Principle
+* Open/Closed Princip
+* Liskov Substitution Principle
+* Interface Segregation Principle
+* Dependency Inversion Principle
+
+The SOLID principles were written with a statically typed language (such as C++ or Java) in mind.  What do the SOLID principles mean to a dynamic/flexible language like Ruby?  This talk will focus on how SOLID and Ruby interact, and how to create well designed Ruby software.
