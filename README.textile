@@ -1,4 +1,3 @@
 h1. SOLID Ruby
 
-This is a presentation discussing Bob Martin's SOLID design principles
-with respect to dynamic languages (in particular, Ruby).
+This is a presentation discussing Bob Martin's SOLID design principles with respect to dynamic languages (in particular, Ruby).
