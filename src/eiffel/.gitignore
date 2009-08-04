@@ -1,0 +1,4 @@
+*.o
+*.c
+*.h
+runroot

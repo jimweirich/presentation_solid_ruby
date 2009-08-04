@@ -1,0 +1,19 @@
+#!/usr/bin/env ruby
+
+require 'rake/clean'
+
+E_FILES = FileList['*.e']
+MAIN = 'runroot'
+
+CLEAN.include('*.c', '*.h', '*.o', '*.id')
+CLOBBER.include(MAIN)
+
+task :default => MAIN
+
+file MAIN => E_FILES do
+  sh "se c #{MAIN}.e -o #{MAIN}"
+end
+
+task :run => MAIN do
+  sh "./#{MAIN}"
+end
