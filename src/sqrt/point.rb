@@ -1,4 +1,4 @@
-require 'sqrt'
+require 'normal_math'
 
 class Point
   attr_reader :x, :y
@@ -9,22 +9,22 @@ class Point
   end
 
   def distance_to(p)
-    root((self.x - p.x)**2 + (self.y - p.y)**2)
+    sqrt((self.x - p.x)**2 + (self.y - p.y)**2)
   end
 
-  def root(x)
-    self.class.root(x)
+  def sqrt(x)
+    self.class.sqrt(x)
   end
 
   class << self
-    def square
-      @square ||= Square.new
+    def math
+      @math ||= NormalMath.new
     end
-    def square=(s)
-      @square = s
+    def math=(s)
+      @math = s
     end
-    def root(x)
-      square.root(x)
+    def sqrt(x)
+      math.sqrt(x)
     end
   end
 end

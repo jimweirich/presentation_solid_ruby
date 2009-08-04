@@ -1,5 +1,5 @@
-class RandomSquare
-  def root(x)
+class RandomMath
+  def sqrt(x)
     hi = x
     lo = 0.0
     while (x - lo*lo) > 0.001
@@ -13,6 +13,8 @@ class RandomSquare
     end
     lo
   end
+
+  private
 
   def pick(hi, lo)
     (hi-lo)*rand + lo
