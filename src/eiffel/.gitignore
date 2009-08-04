@@ -1,4 +1,5 @@
 *.o
 *.c
 *.h
+*.id
 runroot
