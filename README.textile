@@ -2,8 +2,16 @@ h1. SOLID Ruby
 
 This is a presentation discussing Bob Martin's SOLID design principles with respect to dynamic languages (in particular, Ruby).
 
+h1. References
 
-h2. License
+h2. SOLID Principles
+
+h2. Design by Contract
+
+* Eiffel -- "http://eiffel.com/":http://eiffel.com/
+* Hoare Logic -- "http://en.wikipedia.org/wiki/Hoare_logic":http://en.wikipedia.org/wiki/Hoare_logic
+
+h1. License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br />
 <span xmlns:dc="http://purl.org/dc/elements/1.1/" property="dc:title"><em>SOLID Ruby</em></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://onestepback.org" property="cc:attributionName" rel="cc:attributionURL">Jim Weirich</a> 
