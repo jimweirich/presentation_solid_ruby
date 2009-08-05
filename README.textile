@@ -15,7 +15,9 @@ h2. Design by Contract
 
 * Eiffel -- "http://eiffel.com/":http://eiffel.com/
 * DbC in Detail -- "http://eiffel.com/developers/design_by_contract_in_detail.html":http://eiffel.com/developers/design_by_contract_in_detail.html
-* Hoare Logic -- "http://en.wikipedia.org/wiki/Hoare_logic":http://en.wikipedia.org/wiki/Hoare_logic
+* Hoare Logic
+  * "http://blog.plover.com/2009/07/31/#Hoare-logic":http://blog.plover.com/2009/07/31/#Hoare-logic
+  * "http://en.wikipedia.org/wiki/Hoare_logic":http://en.wikipedia.org/wiki/Hoare_logic
 
 h1. License
 
