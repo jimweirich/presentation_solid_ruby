@@ -1,0 +1,19 @@
+require 'rake/clean'
+
+PROG = 'App'
+JAVA_FILES = FileList['*.java']
+CLASS_FILES = JAVA_FILES.ext(".class")
+
+CLEAN.include("*.class")
+
+task :default => :prog
+
+task :prog => CLASS_FILES
+
+task :run => :prog do
+  sh "java #{PROG}"
+end
+
+rule '.class' => '.java' do |r|
+  sh "javac #{r.source}"
+end
