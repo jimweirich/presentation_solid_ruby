@@ -24,6 +24,7 @@ h2. Images
 
 The SOLID images used in this presentation are from: 
 "http://www.lostechies.com/blogs/derickbailey/archive/2009/05/19/announcing-pablo-s-e-books-book-1-pablo-s-solid-software-development.aspx":http://www.lostechies.com/blogs/derickbailey/archive/2009/05/19/announcing-pablo-s-e-books-book-1-pablo-s-solid-software-development.aspx
+
 h1. License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br />
