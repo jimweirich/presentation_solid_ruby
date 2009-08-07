@@ -14,11 +14,16 @@ h2. SOLID Principles
 h2. Design by Contract
 
 * Eiffel -- "http://eiffel.com/":http://eiffel.com/
+* "Object Oriented Software Construction" (Bertand Meyer) -- "http://www.amazon.com/exec/obidos/ISBN=0136291554/portlandpatternrA/":http://www.amazon.com/exec/obidos/ISBN=0136291554/portlandpatternrA/
 * DbC in Detail -- "http://eiffel.com/developers/design_by_contract_in_detail.html":http://eiffel.com/developers/design_by_contract_in_detail.html
 * Hoare Logic
   * "http://blog.plover.com/2009/07/31/#Hoare-logic":http://blog.plover.com/2009/07/31/#Hoare-logic
   * "http://en.wikipedia.org/wiki/Hoare_logic":http://en.wikipedia.org/wiki/Hoare_logic
 
+h2. Images
+
+The SOLID images used in this presentation are from: 
+"http://www.lostechies.com/blogs/derickbailey/archive/2009/05/19/announcing-pablo-s-e-books-book-1-pablo-s-solid-software-development.aspx":http://www.lostechies.com/blogs/derickbailey/archive/2009/05/19/announcing-pablo-s-e-books-book-1-pablo-s-solid-software-development.aspx
 h1. License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br />
