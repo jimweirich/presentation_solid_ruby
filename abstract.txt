@@ -8,4 +8,8 @@ The SOLID principles are a set of design principles that improve an Object Orien
 * Interface Segregation Principle
 * Dependency Inversion Principle
 
-The SOLID principles were written with a statically typed language (such as C++ or Java) in mind.  What do the SOLID principles mean to a dynamic/flexible language like Ruby?  This talk will focus on how SOLID and Ruby interact, and how to create well designed Ruby software.
+The SOLID principles were written with a statically typed language (such as C++ or Java) in mind.  What do the SOLID principles mean to a dynamic/flexible language like Ruby?  This talk will focus on how SOLID and Ruby interact, how to create well designed Ruby software, and to suggest possibilities for new design principles for dynamic languages.
+
+ABSTRACT
+
+The 5 SOLID design principles form a great foundation for understanding good Object Oriented design.  But the SOLID principles were originally conceived with statically typed OO languages, such as C++ and Java, in mind.  How well do these principles hold up when the implementation language is Ruby?  Are the principles just as pertinent as they were in Java, or does the dynamic nature of Ruby change what we mean by good design?  In this presentation we will examine the SOLID principles to understand their core purpose, and then run them through the "Ruby Filter" to see if any of these core principles survive.  By understanding these principles, we become better Ruby programmers.
